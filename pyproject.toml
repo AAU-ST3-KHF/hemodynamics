@@ -17,6 +17,6 @@ dependencies = [
 [dependency-groups]
 dev = ["ipykernel", "uv"]
 
-# Dette er nødvendigt for windows
+# This is necessary for Windows
 [tool.uv]
 link-mode = "copy"
