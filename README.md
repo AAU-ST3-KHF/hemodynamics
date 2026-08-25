@@ -11,8 +11,8 @@ To use this repository:
   - MacOS: `brew install uv`
 2. Clone it locally:
    ```bash
-   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_hemodynamics.git
-   cd cardiovascular_system_hemodynamics
+   git clone https://github.com/AAU-ST3-KHF/hemodynamics.git
+   cd hemodynamics
    uv sync
    ```
 3. If changes occured, i.e. new version of python to your own: `uv sync`.
