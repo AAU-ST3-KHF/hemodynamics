@@ -41,3 +41,13 @@
 *.dwo
 files/shared_overview_table3.png
 
+
+# Auto-generated Python / Jupyter files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
